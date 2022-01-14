@@ -1,0 +1,109 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+header{
+    height: 100px;
+    width: 1950px;
+    display: inline-flex;
+    justify-content: space-between;
+align-items: center;
+background-color: chocolate;
+padding: 10px 16px;
+
+}
+ 
+header  ul {
+ 
+    margin: 0px 16px;
+}
+ 
+header  ul li{
+
+display: inline-block;
+padding: 0px  16px;
+color:cyan;
+
+}
+main div {
+
+background: url("./image/2-nature.jpg");
+height: 75vh;
+background-repeat: no-repeat;
+background-position: center;
+display: flex;
+background-size:cover ;
+align-items: center;
+
+}
+main div h1 {
+ color:cyan;
+ text-align: center;
+ 
+
+
+}
+main div p {
+     color: cyan;
+     width: 30%;
+     margin: auto;
+}
+
+footer{
+    height: 120px;
+    background: coral;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+footer ul li {
+    display: inline-block;
+    padding: 10px 16px;
+    background: cyan;
+    border-radius: 10px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
